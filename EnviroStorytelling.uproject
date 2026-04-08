@@ -69,6 +69,10 @@
 		{
 			"Name": "MacGraphicsSwitching",
 			"Enabled": false
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
 		}
 	]
 }
