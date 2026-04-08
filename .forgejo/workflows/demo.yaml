@@ -2,7 +2,7 @@ on:
   push:
     branches:
       - main
-      - marin
+      - Marbin--main
   workflow_dispatch:
     inputs:
       platform:
